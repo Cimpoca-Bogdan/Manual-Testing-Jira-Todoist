@@ -1,4 +1,4 @@
-<h1>Testing Project for **app.todoist.com**</h1>
+<h1>Testing Project for **Todoist**</h1>
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
