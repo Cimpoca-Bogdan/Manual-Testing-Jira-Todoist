@@ -71,7 +71,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+<li>Functional testing for task creation, completion, and recurrence.e</h4>
+<li>UI testing on desktop and mobile browsers.e</h4>
 
 <h5>Tests not in scope: </h5>
 
