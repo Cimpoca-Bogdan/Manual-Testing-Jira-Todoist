@@ -10,7 +10,20 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below story **(Story 1: Create a New Task, Story 2: Mark a Task as Completed, Story 3: Recurring Tasks  **) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The following stories were created in Jira to describe the functional specifications of the Todoist testing project:
+
+Story 1: Create a New Task
+
+Title: As a user, I want to create a new task with or without a due date.
+Description: Users should be able to create a task by entering a title, optionally adding a due date, and saving it.
+Story 2: Mark a Task as Completed
+
+Title: As a user, I want to mark a task as completed so that it moves to the "Completed Tasks" section.
+Description: Users should be able to mark tasks as completed, removing them from the active list and moving them to "Completed Tasks."
+Story 3: Set Recurring Tasks
+
+Title: As a user, I want to set a task as recurring so that it reappears automatically at regular intervals.
+Description: Users should be able to create a recurring task by setting its frequency (e.g., daily, weekly).
 
 **inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
 
