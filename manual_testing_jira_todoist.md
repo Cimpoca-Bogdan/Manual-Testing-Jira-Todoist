@@ -57,11 +57,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+-Stories were reviewed and approved.
+-Test environments were configured.
+-Necessary test data was prepared.
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+-All planned test cases executed.
+-All critical bugs fixed and verified.
+-Test coverage of at least 90% achieved.
 
 <h4> 1.1.4 Test scope</h4>
 
