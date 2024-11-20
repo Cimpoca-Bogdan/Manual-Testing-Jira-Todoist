@@ -57,15 +57,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
--Stories were reviewed and approved.
--Test environments were configured.
--Necessary test data was prepared.
+<li>-Stories were reviewed and approved.</li> 
+<li>-Test environments were configured.</li> 
+<li>-Necessary test data was prepared.</li> 
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
--All planned test cases executed.
--All critical bugs fixed and verified.
--Test coverage of at least 90% achieved.
+<li>-All planned test cases executed.</li> 
+<li>-All critical bugs fixed and verified.</li> 
+<li>-Test coverage of at least 90% achieved.</li> 
 
 <h4> 1.1.4 Test scope</h4>
 
