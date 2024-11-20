@@ -101,7 +101,17 @@ The testing process will be executed based on the application requirements. <b>(
 
 The following test conditions were found: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+1. Verify that a user can create a task with a valid title and future due date.
+2. Verify that a task cannot be created with a due date in the past.
+3. Verify that tasks can be created without a due date.
+4. Verify that a created task is displayed in the correct project or "Inbox."
+5. Verify that a user can mark a task as completed.
+6. Verify that completed tasks appear in the "Completed Tasks" section.
+7. Verify that completed tasks are removed from the active list.
+8. Verify that users can set a recurring task with valid frequency options.
+9. Verify that recurring tasks reappear in the active list after completion.
+10. Verify that the recurrence settings for tasks are displayed correctly.
+
 
 <h3>1.4 Test Design</h3>
 
