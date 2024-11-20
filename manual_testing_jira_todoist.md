@@ -47,7 +47,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
   <li>Project manager: John Smith</li> 
   <li>Product owner: Jane Doe</li>
@@ -83,11 +82,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+Limited time for regression testing if bugs are detected late.
 
 <h5> Product risks: </h5>
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+High-severity bugs in recurring tasks may affect task scheduling accuracy.
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
