@@ -1,4 +1,3 @@
-backup
 
 <h1>Testing Project for **Todoist**</h1>
 
