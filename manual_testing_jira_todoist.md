@@ -159,6 +159,8 @@ General Testing Conclusion:
  <li>- Proceed with the launch as planned.</li> 
  <li> - Schedule a post-launch review to gather user feedback and address any unforeseen issues.</li> 
  <li> -Continue exploratory testing for potential edge cases in future releases.</li> 
+
+ 
  
   Lessons Learned:
     <li>- Early involvement of the testing team in defining requirements ensures better alignment between test scenarios and product functionality.</li> 
