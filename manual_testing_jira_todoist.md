@@ -70,7 +70,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h5> Tests in scope: </h5>
 
 <li>Functional testing for task creation, completion, and recurrence.e</h4>
-<li>UI testing on desktop and mobile browsers.e</h4>
+<li>UI testing on desktop and mobile browsers</h4>
 
 <h5>Tests not in scope: </h5>
 
