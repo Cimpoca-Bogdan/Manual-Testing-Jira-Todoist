@@ -137,7 +137,7 @@ As the Exit criteria were met and satisfied as mentioned in the appropriate sect
 
 Test Execution Chart:
 The test execution chart generated from Jira dashboards is displayed below:
-(Insert the screenshot of the execution report here.)
+![Alt text](Screenshot2.png)
 
 Final Results:
 
