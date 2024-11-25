@@ -160,13 +160,12 @@ General Testing Conclusion:
  <li> - Schedule a post-launch review to gather user feedback and address any unforeseen issues.</li> 
  <li> -Continue exploratory testing for potential edge cases in future releases.</li> 
 
- 
- 
+  
   Lessons Learned:
   
     <li>- Early involvement of the testing team in defining requirements ensures better alignment between test scenarios and product functionality.</li> 
     <li>- Regular updates and communication within the team helped maintain an efficient and smooth testing process.</li> 
-   <li> - A well-documented test cycle in Jira ensures traceability and accountability for future projects.</li> 
+    <li> - A well-documented test cycle in Jira ensures traceability and accountability for future projects.</li> 
 
    
 The product is ready for production, with a stable build and no critical issues identified during the testing phase.
