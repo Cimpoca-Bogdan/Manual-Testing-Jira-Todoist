@@ -31,7 +31,8 @@ Description: Users should be able to create a recurring task by setting its freq
 
 Here you can find the release that was created for this project:
 
-![The San Juan Mountains are beautiful!](/assets/images/Screenshot 1.jpg )
+![Screenshot1](Screenshot 1.jpg)
+)
 
 <h2>Testing process</h2>
 
