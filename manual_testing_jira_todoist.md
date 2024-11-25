@@ -97,7 +97,7 @@ Reason for Monitoring and Control:
 The test monitoring and control phase was conducted to ensure that the testing activities were progressing according to the planned timeline and that the quality objectives were being met. This phase also helped to identify any deviations from the test plan, manage risks, and ensure the effective resolution of any challenges encountered during testing.
 
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> )</b>. <br><br>
 
 The following test conditions were found: <br>
 
