@@ -31,7 +31,7 @@ Description: Users should be able to create a recurring task by setting its freq
 
 Here you can find the release that was created for this project:
 
-![Screenshot1](Screenshot 1.png)
+![Screenshot1](/assets/images/Screenshot 1.png)
 
 
 <h2>Testing process</h2>
