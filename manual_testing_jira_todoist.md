@@ -3,7 +3,7 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: **app.todoist.com**
+Application under test: (https://todoist.com/)
 
 Tools used: Jira, Zephyr Squad.
 
@@ -31,7 +31,7 @@ Description: Users should be able to create a recurring task by setting its freq
 
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+![The San Juan Mountains are beautiful!](/assets/images/Screenshot 1.jpg )
 
 <h2>Testing process</h2>
 
