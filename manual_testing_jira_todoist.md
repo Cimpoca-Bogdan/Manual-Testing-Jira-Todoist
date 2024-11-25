@@ -28,7 +28,6 @@ Story 3: Set Recurring Tasks
 Title: As a user, I want to set a task as recurring so that it reappears automatically at regular intervals.
 Description: Users should be able to create a recurring task by setting its frequency (e.g., daily, weekly).
 
-**inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
 
 Here you can find the release that was created for this project:
 
