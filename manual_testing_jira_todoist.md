@@ -156,12 +156,12 @@ General Testing Conclusion:
 <li>2. Bugs: No bugs were identified during testing, indicating a high level of stability and alignment with the requirements.</li> 
 <li>3. Risk Assessment: No risks were identified that could impact the release. However, continuous monitoring is recommended post-launch to ensure performance under real-world conditions.</li> 
 <li>4. Recommendations:</li> 
- <li>1- Proceed with the launch as planned.</li> 
- <li>1 - Schedule a post-launch review to gather user feedback and address any unforeseen issues.</li> 
- <li>1 -Continue exploratory testing for potential edge cases in future releases.</li> 
+ <li>- Proceed with the launch as planned.</li> 
+ <li> - Schedule a post-launch review to gather user feedback and address any unforeseen issues.</li> 
+ <li> -Continue exploratory testing for potential edge cases in future releases.</li> 
  
   Lessons Learned:
-    <li>1- Early involvement of the testing team in defining requirements ensures better alignment between test scenarios and product functionality.</li> 
-    <li>1- Regular updates and communication within the team helped maintain an efficient and smooth testing process.</li> 
-   <li>1 - A well-documented test cycle in Jira ensures traceability and accountability for future projects.</li> 
+    <li>- Early involvement of the testing team in defining requirements ensures better alignment between test scenarios and product functionality.</li> 
+    <li>- Regular updates and communication within the team helped maintain an efficient and smooth testing process.</li> 
+   <li> - A well-documented test cycle in Jira ensures traceability and accountability for future projects.</li> 
 The product is ready for production, with a stable build and no critical issues identified during the testing phase.
