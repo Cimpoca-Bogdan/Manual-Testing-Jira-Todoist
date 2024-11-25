@@ -119,9 +119,8 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 
 <h3>1.5 Test Implementation</h3>
 
-The following elements are needed to be ready before the test execution phase begins:
+The following elements are needed to be ready before the test execution phase begins
 
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
 
 <h3>1.6. Test Execution </h3>
 
