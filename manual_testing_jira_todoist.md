@@ -152,10 +152,10 @@ Total Bugs Found: 0
 
 General Testing Conclusion:
 
-1.Coverage: 100% of the in-scope requirements were validated, with no functionalities left untested.
-2.Bugs: No bugs were identified during testing, indicating a high level of stability and alignment with the requirements.
-3.Risk Assessment: No risks were identified that could impact the release. However, continuous monitoring is recommended post-launch to ensure performance under real-world conditions.
-4.Recommendations:
+<li>1.Coverage: 100% of the in-scope requirements were validated, with no functionalities left untested.</li> 
+<li>2.Bugs: No bugs were identified during testing, indicating a high level of stability and alignment with the requirements.</li> 
+<li>3.Risk Assessment: No risks were identified that could impact the release. However, continuous monitoring is recommended post-launch to ensure performance under real-world conditions.</li> 
+<li>4.Recommendations:</li> 
  - Proceed with the launch as planned.
  - Schedule a post-launch review to gather user feedback and address any unforeseen issues.
   -Continue exploratory testing for potential edge cases in future releases.
